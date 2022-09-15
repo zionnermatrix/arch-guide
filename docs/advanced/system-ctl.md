@@ -374,7 +374,7 @@ rm -rf ~/.cache/yay
     ::: code-group-item cn
 
     ```bash
-    sudo pacman -S cpu-x
+    yay -S cpu-x
     ```
 
     :::
